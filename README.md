@@ -1,4 +1,4 @@
-![image](https://github.com/ducnm7/indiez_assign/assets/135160941/db3cfd86-b26c-40c0-9dff-4a808f6bb9e5)![image](https://github.com/ducnm7/indiez_assign/assets/135160941/ef632fdf-464b-4540-8b9a-49fcb1cd6e16)# **PIXEL ART** - User Experience Analysis
+# **PIXEL ART** - User Experience Analysis
 
 ## Introduction
 This project aims to analyze the improvement level of update 1.6.0 compared to the previous update 1.5.2. And from there, make suggestions for new improvements for the next updates.
