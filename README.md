@@ -33,8 +33,8 @@ They started collecting the data from 28-10-2023 to 10-11-2023 to analyze.
   | user_engagement  | Recorded continuously while the user plays, with two types: ss for session start, and ue for user engagement. The time the user is active is recorded in the quantity column.  |
 
 ## Project Structure
-data/: Contains raw and processed data
-notebooks/: Jupyter notebooks for data processing and analyzing
+-  data/: Contains raw and processed data
+-  notebooks/: Jupyter notebooks for data processing and analyzing
 
 ## Authors
 **Đức Nguyễn** - Duke
