@@ -1,7 +1,7 @@
 # **PIXEL ART** - User Experience Analysis
 
 ## Introduction
-###Pixel Art### is a distinctive game where players can unleash their creativity with pixel paintings. With its classic 8-bit graphics combined with simple yet captivating gameplay, Pixel Art is perfect not only for art enthusiasts but also for those looking to relax and exercise their imagination.
+***Pixel Art*** is a distinctive game where players can unleash their creativity with pixel paintings. With its classic 8-bit graphics combined with simple yet captivating gameplay, Pixel Art is perfect not only for art enthusiasts but also for those looking to relax and exercise their imagination.
 
 ## About The Project
 After working on data of game version 1.5.2, Operation Teams found that the tutorial was not good for the users experience.
