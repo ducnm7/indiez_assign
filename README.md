@@ -1,7 +1,14 @@
 # **PIXEL ART** - User Experience Analysis
 
 ## Introduction
+###Pixel Art### is a distinctive game where players can unleash their creativity with pixel paintings. With its classic 8-bit graphics combined with simple yet captivating gameplay, Pixel Art is perfect not only for art enthusiasts but also for those looking to relax and exercise their imagination.
+
+## About The Project
+After working on data of game version 1.5.2, Operation Teams found that the tutorial was not good for the users experience.
+Hence, Pixel Art decided they would roll out a new version 1.6.0 to change the Tutorial in-game and they expected this would help increase user experience.
 This project aims to analyze the improvement level of update 1.6.0 compared to the previous update 1.5.2. And from there, make suggestions for new improvements for the next updates.
+The game version 1.6.0 has rolled out 50% since 28-10-2023, meaning 50% of new users will keep playing game version 1.5.2 and 50% of the remaining will play the new version 1.6.0.
+They started collecting the data from 28-10-2023 to 10-11-2023 to analyze.
 
 ## Data Description
 - **Source:** The data was sourced from **Pixel Art** game from **INDIEZ** released in the Russian market.
